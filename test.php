@@ -12,3 +12,4 @@ $c = $a + $b;
 
 echo 'This is test text';
 echo 'Value:'.$c;
+echo 'Value:'.$c;
